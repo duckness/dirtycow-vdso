@@ -1,6 +1,7 @@
 *.o
 *.h
-payload
-0xdeadbeef
-tools/dump_vdso
-tools/test_payload
+deadbeef/payload
+deadbeef/0xdeadbeef
+deadbeef/tools/dump_vdso
+deadbeef/tools/test_payload
+test
